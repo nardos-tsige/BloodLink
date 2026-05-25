@@ -1,6 +1,6 @@
 # 🩸 BloodLink - Hospital Blood Donation Management System
 
-![BloodLink Logo](frontend/src/assets/logo.png)
+[![BloodLink](https://img.shields.io/badge/BloodLink-Hospital%20Blood%20Donation-red)](https://github.com/nardos-tsige/BloodLink)
 
 BloodLink is a full-stack hospital blood donation management system designed to connect blood donors with hospitals in Ethiopia. It streamlines the blood donation process, manages donor records, blood inventory, and emergency blood requests.
 
