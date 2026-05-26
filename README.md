@@ -62,19 +62,22 @@ node index.js
 
 Server runs on http://localhost:5001
 
-** Frontend Setup**
+**Frontend Setup**
+
 cd frontend
 npm install
 npm run dev
 
 App runs on http://localhost:5173
 
-Default Admin Login
+**Default Admin Login**
+
 Email: admin@bloodlink.com
 
 Password: admin123
 
-📁 Project Structure
+**📁 Project Structure**
+
 text
 BloodLink/
 ├── backend/
@@ -90,7 +93,8 @@ BloodLink/
 │   └── package.json
 └── README.md
 
-🔄 Workflow
+**🔄 Workflow**
+
 Donor registers → Admin verifies → Donor can donate
 
 Staff creates blood request → Admin approves → Request processed
@@ -99,21 +103,26 @@ Staff searches compatible donors when blood is needed
 
 Admin manages inventory and monitors all activities
 
-🤝 Contributing
+**🤝 Contributing**
+
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-📄 License
+**📄 License**
+
 This project is licensed under the MIT License.
 
-👥 Team
-Project Lead: Nardos
+**👥 Team**
+
+Project Team: 2018 Batch Second-year Software Engineering Section 3 Students
 
 Department of Software Engineering, Addis Ababa University (CTBE)
 
-📧 Contact
+**📧 Contact**
+
 For any inquiries, please contact: tsigeferejanardos@gmail.com
 
-🌟 Acknowledgments
+**🌟 Acknowledgments**
+
 Addis Ababa University - CTBE
 
 Inst. Samuel Getachew (Project Advisor)
